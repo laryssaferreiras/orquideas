@@ -1,33 +1,30 @@
 Aqui teremos tudo sobre a explicação das orquideas
 
 ## Dicas
-
 ## Links
-[https://pt.wikipedia.org/wiki/Orqu%C3%ADdea](https://pt.wikipedia.org/wiki/Orqu%C3%ADdea)
+[Básico sobre orquídeas](https://pt.wikipedia.org/wiki/Orqu%C3%ADdea)
 
 ## Etimologia
-[https://github.com/laryssaferreiras/orquideas/blob/master/etimologia.md](https://github.com/laryssaferreiras/orquideas/blob/master/etimologia.md)
+[Etimologia](https://github.com/laryssaferreiras/orquideas/blob/master/etimologia.md)
 ## Taxonomia
 
-## Morfologia
-* Hábitat
-* Crescimento - 
+## Morfologia 
+[Morfologia](https://github.com/laryssaferreiras/orquideas/blob/master/morfologia.md)
 
-* Raizes
-* Caules 
-* Folhas
-* Flores
-* Fruto
-* Sementes
 ## Polinização
+[Polinização](https://github.com/laryssaferreiras/orquideas/blob/master/polinizacao.md)
 
 ## Evolução
+[Evolução](https://github.com/laryssaferreiras/orquideas/blob/master/evolucao.md)
 
 ## Cultivo
+[Cultivo](https://github.com/laryssaferreiras/orquideas/blob/master/evolucao.md)
 
-## Híbridos
 
 ## Como contribuir 
 [Contribuir](https://github.com/laryssaferreiras/orquideas/blob/master/contribuir.md)
 
 ## Saiba Mais
+
+## Licença
+[Licença](https://github.com/laryssaferreiras/orquideas/blob/master/license.md)
