@@ -1,18 +1,18 @@
 Aqui teremos tudo sobre a explicação das orquideas
 
-+* Dicas*
-+*Links* 
-+  *[Básico sobre orquídeas](https://pt.wikipedia.org/wiki/Orqu%C3%ADdea)*
+## Dicas
+## Links 
+[Básico sobre orquídeas](https://pt.wikipedia.org/wiki/Orqu%C3%ADdea)
 
-+* Etimologia*
+## Etimologia
 [Etimologia](https://github.com/laryssaferreiras/orquideas/blob/master/etimologia.md
 )
-+*Taxonomia*
+## Taxonomia
 [Taxonomia](https://github.com/laryssaferreiras/orquideas/blob/master/taxonomia.md)
 
-+ *Morfologia 
-+  *[Morfologia](https://github.com/laryssaferreiras/orquideas/blob/master/morfologia.md)
-+
+## Morfologia 
+[Morfologia](https://github.com/laryssaferreiras/orquideas/blob/master/morfologia.md)
+
 
 ## Polinização
 [Polinização](https://github.com/laryssaferreiras/orquideas/blob/master/polinizacao.md)
