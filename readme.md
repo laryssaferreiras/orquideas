@@ -27,6 +27,7 @@ Aqui teremos tudo sobre a explicação das orquideas
 
 ## Híbridos
 
-## Outros
+## Como contribuir 
+[Contribuir](https://github.com/laryssaferreiras/orquideas/blob/master/contribuir.md)
 
 ## Saiba Mais
